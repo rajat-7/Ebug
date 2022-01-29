@@ -1,2 +1,1 @@
-# Ebug Back End
-but only for Admin
+# Ebug Admin Back End
